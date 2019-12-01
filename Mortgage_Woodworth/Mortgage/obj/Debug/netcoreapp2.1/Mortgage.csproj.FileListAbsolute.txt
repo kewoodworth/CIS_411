@@ -1,0 +1,9 @@
+J:\Mortgage\Mortgage\bin\Debug\netcoreapp2.1\Mortgage.deps.json
+J:\Mortgage\Mortgage\bin\Debug\netcoreapp2.1\Mortgage.dll
+J:\Mortgage\Mortgage\bin\Debug\netcoreapp2.1\Mortgage.pdb
+J:\Mortgage\Mortgage\obj\Debug\netcoreapp2.1\Mortgage.csprojAssemblyReference.cache
+J:\Mortgage\Mortgage\obj\Debug\netcoreapp2.1\Mortgage.csproj.CoreCompileInputs.cache
+J:\Mortgage\Mortgage\obj\Debug\netcoreapp2.1\Mortgage.AssemblyInfoInputs.cache
+J:\Mortgage\Mortgage\obj\Debug\netcoreapp2.1\Mortgage.AssemblyInfo.cs
+J:\Mortgage\Mortgage\obj\Debug\netcoreapp2.1\Mortgage.dll
+J:\Mortgage\Mortgage\obj\Debug\netcoreapp2.1\Mortgage.pdb
